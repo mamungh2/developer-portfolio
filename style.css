@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,7 @@ section{
 .top-banner{
     background-image: url(images/table.jpg);
     background-size:100% 100%;
+}
+.dream-big img{
+    padding-left: 10%;
 }
